@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leopls07&theme=dark&hide_border=false)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leopls07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=leopls07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![Snake animation](https://github.com/leopls07/leopls07/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/leopls07)   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardo-bento-b68baa257/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/leopls07/) 
 -->
 
-![Snake animation](https://github.com/leopls07/leopls07/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/c0de-mathevs/c0de-mathevs/blob/output/github-contribution-grid-snake.svg)
