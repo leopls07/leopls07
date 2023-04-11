@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 Sobre mim:
-🔭 Estudando Análise e desenvolvimento de sistemas <br>⚡ Futuro Java Developer
+🔭 Estudando Análise e desenvolvimento de sistemas <br>⚡ Desenvolvedor em desenvolvimento
 
 
 ## 🌐 Socials:
